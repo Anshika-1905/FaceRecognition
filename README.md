@@ -134,9 +134,7 @@ After creating the enviroment and installing the packages, open the IDE terminal
 ```
 py main.py
 ```
-Here is a demo to run the program. I'm Using the Pycharm IDE in my demo.
 
-![Test Run](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/code%20demo_edit_0.gif)
 
 ## How To Use? :pencil:
 ----------------------
@@ -156,19 +154,3 @@ This project have some bugs.
 * <strike>Student Details: In student details folder the **StudentDetails.csv** file don't have ID & name column.This problem show when the program run first time and create the <stong>StudentDetails.csv</strong> file automatically. To soleve the problelm just open the file and add *ID & Name Column* in the file and save it.</strike>
 * Auto Attachment: This is not a problem actually. The problem is before sent auto mail we have to manually change the file name. I tried to automate the attachment but i faild.
 
-## Contribute :heart:
---------------------------------------
-If you want to contribute in this project feel free to do that. A [contribution guideline](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Contributing%20Guidelines.md) will be a big help.
-
-Thanks you, for contributing.
-- [Adeetya Upadhyay](https://github.com/AdeetyaU)
-- [Ciro Iriarte](https://github.com/ciroiriarte)
-- [Shreyas More](https://github.com/staticshreyas)
-
-## Credits :sparkling_heart:
---------------------------------
-Thanks to [Farhat Tasnim](https://github.com/farhattasnim) work with me.
-
-## Licence :scroll:
----------------------------------
-MIT © [K.M.H. Mubin](https://github.com/kmhmubin)
