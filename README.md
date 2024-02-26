@@ -1,5 +1,5 @@
 
-Face Recognition Attandance System
+Face Recognition Attendance System
 Recognize The faces And Take Automatic Attandance. ✨
 Face Recognition Logo
 
