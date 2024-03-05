@@ -1,4 +1,4 @@
-#h1Face Recognition Attendance System
+#h Face Recognition Attendance System
 
 Motivation
 We aim to provide a valuable attendance service for both teachers and students. By implementing an automated and reliable attendance system that uses face recognition technology, we seek to reduce manual process errors.
